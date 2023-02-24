@@ -54,17 +54,17 @@ global.BOT_OFFLINE = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['94789481495'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙼𝚉𝙽 𝙱𝙾𝚃𝚂'
 //👇 Your Bot Name
-global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
+global.botnma =  '『 𝙼𝚉𝙽 𝙱𝙾𝚃𝚂 』' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝙼𝚁.𝙼𝙰𝙰𝚉𝙸𝙽' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔' 
+global.packname =  'ＭＺＮ  ＢＯＴＳ' 
 //👇 Sticker Author Name
-global.author =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
+global.author =  '𝙼𝚁 𝙼𝙰𝙰𝚉𝙸𝙽 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -74,7 +74,7 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = 🧚|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
@@ -96,7 +96,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `default`
 //👇 Desable PM Block numbers
-global.NO_BLOCK = ["94715166712","94719574492"]
+global.NO_BLOCK = ["94789481495","94771227821"]
 global.S_CAP = ''
 global.V_CAP = ''
 global.YT_CAP = ''
@@ -121,15 +121,15 @@ global.sp = '🔵'
 
 global.mess = {
     success: '✅ Done!',
-    admin: '*Only admins can use this command !*',
-    botAdmin: '*Please admin the bot first !*',
-    owner: '*Sorry, this command is only for the owner !*',
-    group: '*This command can only be used in groups !*',
-    private: '*This command can only be used in Inbox !*',
-    bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait ...*',
+    admin: '*Only admins can use this command!*',
+    botAdmin: '*Please make bot to admin!*',
+    owner: '*Sorry, this command is only for the owner!*',
+    group: '*This command can only be used in groups!*',
+    private: '*This command can only be used in Inbox!*',
+    bot: '*This command can only be used by bot number!*',
+    wait: '*♲ Please Wait...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
+    BLOCK_CMD_MSG : '*⚠️ This Command is Blocked By Owner*',
     BAD_DETECT : '',
     BLOCK : '',
     UNBLOCK : '',
