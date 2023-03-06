@@ -78,7 +78,7 @@ global.MENU_IMOJI = 🧚|ℹ️'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
-global.REMOVE_BG_API = 'apikey get on remoebg.com'
+global.REMOVE_BG_API = 'HjFsDbYMLbUXNJ17KetMv2LX'
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
 //👇 Change Bot Language 
@@ -97,9 +97,9 @@ global.GOODBYE = process.env.GOODBYE || ``
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `default`
 //👇 Desable PM Block numbers
 global.NO_BLOCK = ["94789481495","94771227821"]
-global.S_CAP = ''
-global.V_CAP = ''
-global.YT_CAP = ''
+global.S_CAP = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙼𝚉𝙽 𝙱𝙾𝚃𝚂'
+global.V_CAP = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙼𝚉𝙽 𝙱𝙾𝚃𝚂'
+global.YT_CAP = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙼𝚉𝙽 𝙱𝙾𝚃𝚂'
 global.IMG_BLOCKER = ["xxx","sex","mia"]
 
 
